@@ -2,6 +2,7 @@
 
 Recipe app
 - React
+- Redux
 - JSX
 - Node.js
 - HTML
